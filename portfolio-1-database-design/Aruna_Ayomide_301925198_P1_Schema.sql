@@ -1,4 +1,4 @@
-Electronic Document Management System (EDMS)
+-- Electronic Document Management System (EDMS)
  
 -- PostgreSQL 16 Database Schema
  
